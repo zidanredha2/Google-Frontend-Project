@@ -61,6 +61,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 1.5vh;
 }
 header{
     display: flex;
